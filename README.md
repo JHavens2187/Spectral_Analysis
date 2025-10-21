@@ -24,11 +24,10 @@ The notebooks provide workflows for:
 
 This analysis relies heavily on the Python scientific ecosystem, including:
 
-* **Core:** `numpy`, `pandas`, `matplotlib`
+* **Core:** `numpy`, `pandas`, `matplotlib`, `GLEAM`
 * **Astronomy:** `astropy`, `specutils`, `astro-gleam`, `lmfit`
 * **Performance/Imaging:** `numba`, `opencv-python` (`cv2`)
 * **Data Handling:** `requests`, `json`
-* **Cloud/API:** `google-api-python-client`, `gspread`, `oauth2client`
 
 ## Usage
 
